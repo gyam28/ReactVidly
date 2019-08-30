@@ -4,12 +4,14 @@ This is a work in progress project involving React. It is based on a React tutor
 The product is an app for renting movies with an editable list of titles.
 
 Features:
-1.Features user registration and login pages.
-2.Favorite movies can be marked as favorite. 
-3.New movie titles can be added.
-4.Movies already in the stock can be edited or deleted.
-5.The movies list can be filtered by category.
-6.Movies can also be searched independently through the search bar.
+<ul>
+  <li>Features user registration and login pages</li>
+
+<li>Favorite movies can be marked as favorite</li>
+<li>New movie titles can be added</li>
+<li>Movies already in the stock can be edited or deleted</li>
+<li>The movies list can be filtered by category</li>
+<li>Movies can also be searched independently through the search bar</li>
 
 
 <h3>Note:</h3>
